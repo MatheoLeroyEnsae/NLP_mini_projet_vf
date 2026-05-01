@@ -1,0 +1,668 @@
+# Mapping parti(s) -> famille politique
+# Format : <label brut>\t<FAMILLE>
+# Familles : EXTREME_GAUCHE=Extrême gauche, GAUCHE=Gauche, CENTRE_GAUCHE=Centre gauche, CENTRE=Centre, CENTRE_DROIT=Centre droit, DROITE=Droite, EXTREME_DROITE=Extrême droite, ECOLOGISTE=Écologiste, REGIONALISTE=Régionaliste / Autonomiste, DIVERS=Divers / Sans étiquette, UNKNOWN=Non classé
+# Source : codé manuellement à partir de la connaissance historique
+# (PS/PCF/PSU = gauche ; LO/LCR = ext. gauche ; UDF/CDS/PR = centre-droit ;
+#  RPR/CNI = droite ; FN = ext. droite ; Verts/GE = écologistes ;
+#  UDB/Corsica/Tahoeraa = régionalistes)
+#==============================================================================
+
+
+### EXTREME_GAUCHE — Extrême gauche 
+Alliance européenne des travailleurs	EXTREME_GAUCHE
+Alternative démocratie socialisme	EXTREME_GAUCHE
+Alternative rouge et verte	EXTREME_GAUCHE
+Alternative rouge et verte;Alternative démocratie socialisme;Refondations;Ligue communiste révolutionnaire	EXTREME_GAUCHE
+Accolta Naziunali Corsa	EXTREME_GAUCHE
+Corsica Nazione	EXTREME_GAUCHE
+Combat ouvrier	EXTREME_GAUCHE
+Comité anti-raciste de Nanterre;Comité homosexuel de l'Ouest parisien;Comité d'urgence anti-répression homosexuelle;Organisation communiste des travailleurs	EXTREME_GAUCHE
+Comités Juquin	EXTREME_GAUCHE
+Comités Juquin;Seine-Saint-Denis autrement Ecologie 93	EXTREME_GAUCHE
+Comités communistes pour l'autogestion	EXTREME_GAUCHE
+Jeunesses communistes révolutionnaires;Groupe socialiste internationaliste	EXTREME_GAUCHE
+Ligue communiste révolutionnaire	EXTREME_GAUCHE
+Ligue communiste révolutionnaire;Alternative libertaire	EXTREME_GAUCHE
+Ligue communiste révolutionnaire;Alternative rouge et verte	EXTREME_GAUCHE
+Ligue communiste révolutionnaire;Jeunesses communistes révolutionnaires	EXTREME_GAUCHE
+Ligue socialiste des travailleurs	EXTREME_GAUCHE
+Ligue trotskyste	EXTREME_GAUCHE
+Lutte ouvrière	EXTREME_GAUCHE
+Mouvement rouge et vert	EXTREME_GAUCHE
+Organisation communiste de France	EXTREME_GAUCHE
+Organisation communiste de France démocratique	EXTREME_GAUCHE
+Organisation communiste des travailleurs	EXTREME_GAUCHE
+Parti communiste marxiste-léniniste	EXTREME_GAUCHE
+Parti communiste révolutionnaire	EXTREME_GAUCHE
+Parti communiste révolutionnaire;Organisation communiste des travailleurs	EXTREME_GAUCHE
+Parti des travailleurs	EXTREME_GAUCHE
+Parti des travailleurs;Alliance européenne des travailleurs	EXTREME_GAUCHE
+Parti des travailleurs;Alliance européenne des travailleurs;Entente internationale des travailleurs	EXTREME_GAUCHE
+Parti des travailleurs;Entente internationale des travailleurs	EXTREME_GAUCHE
+communiste critique	EXTREME_GAUCHE
+libre;Parti des travailleurs	EXTREME_GAUCHE
+Abertzaleen batasuna	EXTREME_GAUCHE
+Emgann	EXTREME_GAUCHE
+Esquerra catalana dels travailleurs	EXTREME_GAUCHE
+Front indépendantiste; Libération Kanak socialiste; Front uni de libération kanak; Parti socialiste calédonien	EXTREME_GAUCHE
+abertzale	EXTREME_GAUCHE
+
+### COMMUNISTE — Partis communistes
+Parti communiste français	COMMUNISTE
+Parti communiste guadeloupéen	COMMUNISTE
+Parti communiste martiniquais	COMMUNISTE
+Parti communiste réunionnais	COMMUNISTE
+communiste	COMMUNISTE
+communiste démocratique	COMMUNISTE
+
+### SOCIALISTE — Socialistes, sociaux-démocrates, radicaux de gauche
+Association pour de nouvelles perspectives à gauche	SOCIALISTE
+Collectif Vraiment à gauche	SOCIALISTE
+Comité départemental de soutien à François Mitterrand	SOCIALISTE
+Comité socialiste calédonien	SOCIALISTE
+Comités d'initiative pour une nouvelle politique de gauche	SOCIALISTE
+Comités d'initiative pour une nouvelle politique à gauche	SOCIALISTE
+Convention des institutions républicaines;gauche;libres	SOCIALISTE
+Démocrate de progrès;Parti socialiste	SOCIALISTE
+Mouvement de la gauche indépendante;Ecologie 2000	SOCIALISTE
+Mouvement de la gauche progressiste	SOCIALISTE
+Mouvement de la gauche socialiste et démocratique	SOCIALISTE
+Mouvement des citoyens	SOCIALISTE
+Mouvement des citoyens;Parti socialiste	SOCIALISTE
+Mouvement des démocrates	SOCIALISTE
+Mouvement des démocrates;Comité national des gaullistes de gauche;Mouvement des radicaux de gauche	SOCIALISTE
+Mouvement des radicaux de gauche	SOCIALISTE
+Mouvement des radicaux de gauche;Démocrates de progrès	SOCIALISTE
+Mouvement des radicaux de gauche;Parti socialiste	SOCIALISTE
+Mouvement des radicaux de gauche;Parti socialiste;Alliance pour l'écologie et la démocratie	SOCIALISTE
+Mouvement des radicaux de gauche;Rassemblement des radicaux de gauche de l'Essonne	SOCIALISTE
+Mouvement des radicaux de gauche;gaullistes de gauche;Mouvement des démocrates	SOCIALISTE
+Mouvement socialiste populaire	SOCIALISTE
+Mouvement socialiste-démocrate européen	SOCIALISTE
+Parti socialiste	SOCIALISTE
+Parti socialiste guyanais	SOCIALISTE
+Parti socialiste unifié	SOCIALISTE
+Parti socialiste unifié;Convergence autogestionnaire et écologique	SOCIALISTE
+Parti socialiste;Mouvement des citoyens	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Association des démocrates	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Club des démocrates	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Démocrates de progrès	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Mouvement des citoyens	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Mouvement des gaullistes populaires	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Parti socialiste unifié	SOCIALISTE
+Parti socialiste;Mouvement des radicaux de gauche;Parti socialiste unifié;Mouvement des démocrates	SOCIALISTE
+Parti socialiste;Radicaux de gauche	SOCIALISTE
+Parti socialiste;Radicaux de gauche;Démocrates de progrès	SOCIALISTE
+Présence socialiste	SOCIALISTE
+Radical-socialiste;gauche libérale et écologiste	SOCIALISTE
+Radicaux de gauche	SOCIALISTE
+Rassemblement des radicaux de gauche de l'Essonne	SOCIALISTE
+Socialiste	SOCIALISTE
+Socialistes	SOCIALISTE
+socialiste	SOCIALISTE
+socialiste chrétien	SOCIALISTE
+socialiste indépendant	SOCIALISTE
+socialistes	SOCIALISTE
+socialistes;divers gauche;Radicaux de gauche	SOCIALISTE
+Démocrate socialiste	SOCIALISTE
+Démocrates de progrès	SOCIALISTE
+Fédération des socialistes démocrates	SOCIALISTE
+Mouvement démocrate socialiste	SOCIALISTE
+Mouvement social-chrétien	SOCIALISTE
+social-démocrate	SOCIALISTE
+
+
+### COALITION_GAUCHE — Coalitions de gauche, étiquettes mixtes et génériques
+socialistes;communistes	COALITION_GAUCHE
+Parti socialiste;communistes	COALITION_GAUCHE
+Amis de la Terre;Parti socialiste unifié	COALITION_GAUCHE
+Anjou écologie autogestion;Parti socialiste unifié	COALITION_GAUCHE
+Centre gauche	COALITION_GAUCHE
+Comités Juquin;Parti socialiste unifié;Ligue communiste révolutionnaire;Mouvement rouge et vert	COALITION_GAUCHE
+Convergence	COALITION_GAUCHE
+Ecologie les Verts;Génération écologie;Alternative rouge et verte	COALITION_GAUCHE
+Elus gaullistes du progrès	COALITION_GAUCHE
+Forum progressiste;Solidarité écologie gauche alternative	COALITION_GAUCHE
+Fédération des gaullistes de progrès	COALITION_GAUCHE
+Gaulliste de progrès	COALITION_GAUCHE
+Génération écologie;Verts;Alternative rouge et verte	COALITION_GAUCHE
+Ligue communiste révolutionnaire;Egalité XXe;Refondations;Alliance rouge et verte	COALITION_GAUCHE
+Mouvement de la gauche progressiste;Solidarité écologie gauche alternative	COALITION_GAUCHE
+Mouvement des citoyens;Mouvement des radicaux de gauche;Alternative démocratie socialisme	COALITION_GAUCHE
+Mouvement des citoyens;Refondations;Alternative rouge et verte;Ligue communiste révolutionnaire;Alternative démocratie socialisme	COALITION_GAUCHE
+Mouvement des radicaux de gauche;Parti communiste français;Parti socialiste	COALITION_GAUCHE
+Mouvement des radicaux de gauche;Parti communiste français;Parti socialiste;Parti socialiste unifié	COALITION_GAUCHE
+Mouvement des radicaux de gauche;Parti socialiste;Parti communiste français;Verts alternatifs	COALITION_GAUCHE
+Mouvement écologique du Nord;Comité anti poids lourds Nord;Comité de défense des droits du piéton;Section régionale des Femmes pour la paix	COALITION_GAUCHE
+Parti communiste français;Alternative rouge et verte;Refondations;Convergences et démocratie;Espoirs 93;Alternative démocratie socialisme	COALITION_GAUCHE
+Parti communiste français;Alternative rouge et verte;Refondations;Convergences et démocratie;Espoirs 93;Alternative démocratie socialisme;Parti socialiste	COALITION_GAUCHE
+Parti communiste français;Alternative rouge et verte;Refondations;Convergences et démocratie;espoirs 93	COALITION_GAUCHE
+Parti communiste français;Mouvement des radicaux de gauche;Parti socialiste	COALITION_GAUCHE
+Parti communiste français;Mouvement des radicaux de gauche;Parti socialiste unifié	COALITION_GAUCHE
+Parti communiste français;Mouvement des radicaux de gauche;Parti socialiste unifié;Gaulliste de progrès;écologiste;Organisations chrétiennes	COALITION_GAUCHE
+Parti communiste français;Parti socialiste	COALITION_GAUCHE
+Parti communiste français;Parti socialiste;Mouvement des radicaux de gauche;Parti socialiste unifié	COALITION_GAUCHE
+Parti communiste français;Parti socialiste;Parti socialiste unifié	COALITION_GAUCHE
+Parti communiste français;Refondations	COALITION_GAUCHE
+Parti communiste révolutionnaire;Parti socialiste unifié	COALITION_GAUCHE
+Parti socialiste unifié;Amis de la Terre	COALITION_GAUCHE
+Parti socialiste unifié;Comités Juquin	COALITION_GAUCHE
+Parti socialiste unifié;Mouvement pour une alternative non-violente	COALITION_GAUCHE
+Parti socialiste unifié;Mouvement pour une alternative non-violente;Amis de la Terre	COALITION_GAUCHE
+Parti socialiste unifié;Mouvement pour une alternative non-violente;Mouvement pour le désarmement la paix la liberté;Comité Larzac	COALITION_GAUCHE
+Parti socialiste unifié;Parti communiste français;Parti socialiste	COALITION_GAUCHE
+Parti socialiste unifié;Parti communiste révolutionnaire;Union démocratique bretonne	COALITION_GAUCHE
+Parti socialiste unifié;Parti socialiste;Mouvement des radicaux de gauche;Confédération générale du travail;Confédération française démocratique du travail;Fédération de l'Education nationale	COALITION_GAUCHE
+Parti socialiste unifié;Union démocratique bretonne	COALITION_GAUCHE
+Parti socialiste unifié;Union démocratique bretonne;Projet Alter Breton	COALITION_GAUCHE
+Parti socialiste unifié;écologistes	COALITION_GAUCHE
+Parti socialiste;Alliance pour l'écologie et la démocratie;Mouvement des radicaux de gauche;Alternative rouge et verte;Mouvement national de lutte pour l'Environnement;Mouvement des citoyens;Alternative démocratie socialisme;Refondations;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Ligue communiste révolutionnaire	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Ligue communiste révolutionnaire;Parti socialiste unifié;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Lutte ouvrière;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français;Ligue communiste révolutionnaire	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français;Parti socialiste unifié	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français;Parti socialiste unifié;Comité écologique	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français;Parti socialiste unifié;Gaullistes de progrès	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français;Parti socialiste unifié;Lutte ouvrière	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti socialiste unifié;Mouvement des démocrates;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti socialiste unifié;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;Parti socialiste unifié;Parti communiste français;gaullistes de gauche;écologistes	COALITION_GAUCHE
+Parti socialiste;Mouvement des radicaux de gauche;écologistes;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Génération écologie;Verts	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Mouvement des citoyens	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Mouvement des radicaux de gauche	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Mouvement des radicaux de gauche;Mouvement des démocrates;Parti socialiste unifié	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Parti socialiste unifié	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Parti socialiste unifié;Amis de la Terre	COALITION_GAUCHE
+Parti socialiste;Parti socialiste unifié;Parti communiste français	COALITION_GAUCHE
+Parti socialiste;Parti socialiste unifié;Parti communiste français;Mouvement des radicaux de gauche	COALITION_GAUCHE
+Politique autrement	COALITION_GAUCHE
+Solidarité écologie gauche alternative	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Alternative démocratie socialisme	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Alternative rouge et verte	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Alternative rouge et verte;Alternative démocratie socialisme	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Ecologie solidarités	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Mouvement de la gauche progressiste;Alternative démocratie socialisme;Alternative rouge et verte	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Parti des travailleurs;Mouvement des citoyens;Démocratie socialiste;Alternative démocratie socialisme;Alternative rouge et verte	COALITION_GAUCHE
+Solidarité écologie gauche alternative;Refondations	COALITION_GAUCHE
+Solidarités;A gauche autrement	COALITION_GAUCHE
+Union démocratique bretonne;Parti socialiste unifié	COALITION_GAUCHE
+Union démocratique bretonne;Solidarité écologie gauche alternative	COALITION_GAUCHE
+autogestionnaire	COALITION_GAUCHE
+centre gauche	COALITION_GAUCHE
+gauche	COALITION_GAUCHE
+gauche;formation politique	COALITION_GAUCHE
+gaullistes de gauche	COALITION_GAUCHE
+indépendant;gauche	COALITION_GAUCHE
+progressistes	COALITION_GAUCHE
+écologiste;Parti socialiste unifié	COALITION_GAUCHE
+Parti socialiste;centre;divers gauche	COALITION_GAUCHE
+Parti socialiste;Parti communiste français;Parti socialiste unifié;Mouvement pour le socialisme par la participation	COALITION_GAUCHE
+Union des gaullistes de gauche;Union des gaullistes de progrès;Mouvement des démocrates;Centre social français;Club Louise-Michel	COALITION_GAUCHE
+Esquerra republicana de Catalunya	COALITION_GAUCHE
+Eusko Alkartasuna	COALITION_GAUCHE
+Ia mana te nunaa	COALITION_GAUCHE
+Font indépendantiste	COALITION_GAUCHE
+Front indépendantiste	COALITION_GAUCHE
+Mouvement social démocrate polynésien	COALITION_GAUCHE
+Mouvement socialiste occitan Volem viure au païs	COALITION_GAUCHE
+Union démocratique bretonne	COALITION_GAUCHE
+Unitat catalana	COALITION_GAUCHE
+Volem viure au pais movement socialista e autonomista occitan	COALITION_GAUCHE
+
+
+
+### CENTRE — Centre 
+Arc en ciel;Parti radical transnational	CENTRE
+Citoyens actifs	CENTRE
+Démocratie chrétienne française	CENTRE
+Humaniste	CENTRE
+Mouvement universel humanitaire du travail SOS chômage	CENTRE
+Parti démocrate français	CENTRE
+Parti humaniste	CENTRE
+Radical-socialiste;centre-centre gauche	CENTRE
+Rassemblement des démocrates chrétiens	CENTRE
+Union des démocrates chrétiens	CENTRE
+centre	CENTRE
+centriste	CENTRE
+centriste de progrès	CENTRE
+centriste démocrate indépendant	CENTRE
+centriste;sans étiquette	CENTRE
+humaniste	CENTRE
+indépendant;centre	CENTRE
+libre;centre	CENTRE
+Mouvement pour l’autodétermination	CENTRE
+Mouvement région Savoie; Alliance libre européenne	CENTRE
+Parti fédéraliste européen	CENTRE
+Parti mystico-rationaliste guadeloupéen	CENTRE
+Rassemblement pour l’Europe fédérale	CENTRE
+Taatiraa Polynesia Entente polynésienne	CENTRE
+
+
+### CENTRE_DROIT — Centre droit
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants;Union pour Paris;Union des associations et comités pour l'environnement de Paris	CENTRE_DROIT
+Rassemblement pour la République;Union pour la démocratie française;Parti républicain;Centre des démocrates sociaux;Radicaux-socialistes	CENTRE_DROIT
+Action républicaine indépendante et libérale	CENTRE_DROIT
+Association pour les libertés en Europe	CENTRE_DROIT
+Centre des démocrates de progrès;Mouvement social-démocrate;Parti libéral de France;Groupe chrétien démocrate;Alternative pour une démocratie sociale	CENTRE_DROIT
+Centre des démocrates sociaux	CENTRE_DROIT
+Centre des démocrates sociaux;Démocrate de progrès	CENTRE_DROIT
+Centre des démocrates sociaux;Union pour la démocratie française	CENTRE_DROIT
+Démocrate socialiste;Union pour la démocratie française	CENTRE_DROIT
+Entente libérale libertaire européenne	CENTRE_DROIT
+Ligue pour les libertés publiques	CENTRE_DROIT
+Mouvement des démocrates libéraux	CENTRE_DROIT
+Mouvement des libéraux de progrès	CENTRE_DROIT
+Mouvement des réformateurs	CENTRE_DROIT
+Mouvement démocrate socialiste;Union pour la démocratie française	CENTRE_DROIT
+Mouvement liberté légalité	CENTRE_DROIT
+Nouveau contrat social	CENTRE_DROIT
+Nouvelle génération	CENTRE_DROIT
+Parti libéral pour la démocratie française	CENTRE_DROIT
+Parti radical	CENTRE_DROIT
+Parti radical-socialiste	CENTRE_DROIT
+Parti radical-socialiste;Mouvement des démocrates sociaux;Parti républicain;Centre des démocrates sociaux;Union pour la démocratie française	CENTRE_DROIT
+Parti radical;Union pour la démocratie française	CENTRE_DROIT
+Parti républicain	CENTRE_DROIT
+Parti républicain valoisien	CENTRE_DROIT
+Parti républicain;Centre des démocrates sociaux;Parti radical	CENTRE_DROIT
+Parti républicain;Centre des démocrates sociaux;Parti radical;Mouvement démocrate	CENTRE_DROIT
+Parti républicain;Union pour la démocratie française	CENTRE_DROIT
+Radical	CENTRE_DROIT
+Radical-socialiste	CENTRE_DROIT
+Républicain de progrès	CENTRE_DROIT
+Républicain indépendant démocrate	CENTRE_DROIT
+Union centriste libérale	CENTRE_DROIT
+Union centriste républicaine	CENTRE_DROIT
+Union des centristes de France	CENTRE_DROIT
+Union pour la démocratie française	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti radical	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti radical-socialiste;Parti républicain	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti radical;Parti républicain	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti radical;Parti républicain;Parti social démocrate;Clubs perspectives et réalités	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Parti radical	CENTRE_DROIT
+Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Parti radical-socialiste;Mouvement démocrate socialiste;Clubs Perspectives et réalités;Mouvement des enseignants libéraux	CENTRE_DROIT
+Union pour la démocratie française;Mouvement démocrate socialiste	CENTRE_DROIT
+Union pour la démocratie française;Parti radical	CENTRE_DROIT
+Union pour la démocratie française;Parti radical;Centre des démocrates sociaux;Parti républicain	CENTRE_DROIT
+Union pour la démocratie française;Parti radical;Parti républicain;Centre des démocrates sociaux;Clubs perspectives et réalités	CENTRE_DROIT
+Union pour la démocratie française;Parti républicain	CENTRE_DROIT
+Union pour la démocratie française;Parti républicain;Centre des démocrates sociaux;Mouvement démocrate socialiste de France;Radicaux	CENTRE_DROIT
+Union pour la démocratie française;Parti républicain;Centre des démocrates sociaux;Parti social démocrate;Parti radical	CENTRE_DROIT
+Union pour la démocratie française;Parti social démocrate	CENTRE_DROIT
+centre droit	CENTRE_DROIT
+centre libéral	CENTRE_DROIT
+centre libéral indépendant	CENTRE_DROIT
+centriste de progrès et de justice sociale;Centre des démocrates sociaux	CENTRE_DROIT
+centriste;Centre des démocrates sociaux	CENTRE_DROIT
+centriste;radical	CENTRE_DROIT
+gauche républicaine libérale	CENTRE_DROIT
+giscardien	CENTRE_DROIT
+giscardien déçu	CENTRE_DROIT
+giscardiens	CENTRE_DROIT
+indépendant;Centre des démocrates sociaux	CENTRE_DROIT
+indépendant;centre droit	CENTRE_DROIT
+libéral	CENTRE_DROIT
+libéraux	CENTRE_DROIT
+radical indépendant	CENTRE_DROIT
+républicain indépendant	CENTRE_DROIT
+républicaine démocrate	CENTRE_DROIT
+Mouvement des réformateurs;Solidarités;Politique autrement	CENTRE_DROIT
+
+
+### DROITE — Droite 
+Tahoeraa Huiraatira	DROITE
+Agir	DROITE
+Alliance populaire	DROITE
+Alliance populaire;Rassemblement niçois	DROITE
+Alliance populaire;royaliste	DROITE
+Blanc c'est exprimé;indépendant	DROITE
+Centre des démocrates sociaux;Archipel Demain	DROITE
+Centre des démocrates sociaux;Rassemblement pour la République;Parti radical;Centre national des indépendants et paysans	DROITE
+Centre des démocrates sociaux;Rassemblement pour la République;Parti radical;Mouvement démocrate socialiste;Union pour la démocratie française	DROITE
+Centre des démocrates sociaux;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Centre des démocrates sociaux;Union pour la démocratie française;Rassemblement pour la République	DROITE
+Centre national des indépendants	DROITE
+Centre national des indépendants et paysans	DROITE
+Centre national des indépendants et paysans;Démocratie chrétienne française	DROITE
+Centre national des indépendants et paysans;Mouvement aixois des indépendants et libéraux	DROITE
+Centre national des indépendants et paysans;Rassemblement pour la République	DROITE
+Centre national des indépendants et paysans;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Centre national des indépendants et paysans;Rassemblement pour la République;Union pour la démocratie française;Mouvement solidarité participation	DROITE
+Centre national des indépendants et paysans;Rassemblement pour la République;Union pour la démocratie française;non inscrits	DROITE
+Centre national des indépendants et paysans;Union pour la démocratie française;Rassemblement pour la République	DROITE
+Centre national des indépendants;Démocratie chrétienne française	DROITE
+Centre national des indépendants;Rassemblement pour la République	DROITE
+Centre national des indépendants;Rassemblement pour la République;Centre des démocrates sociaux;Parti radical	DROITE
+Centre national des indépendants;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Centre national des indépendants;Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Parti radical;Mouvement des démocrates socialistes	DROITE
+Centre national des indépendants;Rassemblement pour la République;Union pour la démocratie française;Mouvement des démocrates socialistes	DROITE
+Centre national des indépendants;Union pour la démocratie française;Rassemblement pour la République;gaullistes	DROITE
+Chasse pêche nature traditions	DROITE
+Chasse pêche nature traditions;Collectif du monde rural pour le non à Maastricht	DROITE
+Collège pour une société de participation	DROITE
+Coordination rurale;Chasse pêche nature traditions;UTILE;Union des indépendants	DROITE
+Démocratie chrétienne française;Centre national des indépendants et paysans	DROITE
+Démocratie chrétienne;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Entente populaire indépendante	DROITE
+Front national;Centre national des indépendants et paysans	DROITE
+Front national;Fédération nationale des Indépendants	DROITE
+Front national;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Fédération nationale des indépendants	DROITE
+Fédération nationale des indépendants;Fédération départementale des indépendants de Charente-Maritime	DROITE
+Jeunes Centre national des indépendants;Centre national des indépendants;Démocratie chrétienne française	DROITE
+Jeunes sociaux libéraux;Union pour la démocratie française;Rassemblement pour la République	DROITE
+Mouvement de solidarité avec le Tiers Monde	DROITE
+Mouvement des chrétiens pour la Ve République;Centre national des indépendants;Union des démocrates de progrès	DROITE
+Mouvement des démocrates;Union des indépendants	DROITE
+Mouvement des réformateurs;Rassemblement pour l'Europe fédérale;Convention générale de Bretagne	DROITE
+Mouvement démocratie alsacienne	DROITE
+Mouvement populaire alsacien	DROITE
+Mouvement pour le socialisme par la participation	DROITE
+Mouvement pour une nouvelle humanité;Union des indépendants	DROITE
+Parti libéral;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Parti radical-socialiste;Mouvement des démocrates sociaux;Parti républicain;Centre national des indépendants;Centre des démocrates sociaux;Union pour la démocratie française	DROITE
+Parti radical-socialiste;Parti républicain;Rassemblement pour la République;Centre des démocrates sociaux;Clubs Perspectives et réalités	DROITE
+Parti radical;Centre national des indépendants;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Parti républicain;Centre des démocrates sociaux;Rassemblement pour la République;Parti radical	DROITE
+Parti républicain;Rassemblement pour la République	DROITE
+Parti républicain;Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti radical;Parti social-démocrate	DROITE
+Parti républicain;Union pour la démocratie française;Parti radical-socialiste;Centre des démocrates sociaux;Centre national des indépendants et paysans;Mouvement des démocrates socialistes de France;Jeunes giscardiens;Clubs Perspectives et réalités	DROITE
+Parti républicain;Union pour la démocratie française;Rassemblement pour la République	DROITE
+Pour la France	DROITE
+Rassemblement des démocrates normands	DROITE
+Rassemblement pour la Calédonie dans la République	DROITE
+Rassemblement pour la République	DROITE
+Rassemblement pour la République;Centre des démocrates sociaux	DROITE
+Rassemblement pour la République;Centre des démocrates sociaux;Parti radical	DROITE
+Rassemblement pour la République;Centre national des indépendants	DROITE
+Rassemblement pour la République;Centre national des indépendants et paysans	DROITE
+Rassemblement pour la République;Centre national des indépendants et paysans;Union pour la démocratie française;Parti radical-socialiste;Mouvement de la gauche libérale	DROITE
+Rassemblement pour la République;Centre national des indépendants;Centre des démocrates sociaux;Parti radical	DROITE
+Rassemblement pour la République;Centre national des indépendants;Union pour la démocratie française	DROITE
+Rassemblement pour la République;Indépendants et paysans	DROITE
+Rassemblement pour la République;Parti républicain;Centre des démocrates sociaux	DROITE
+Rassemblement pour la République;Parti républicain;Centre des démocrates sociaux;Centre national des indépendants et paysans;Mouvement démocrate socialiste;Parti radical	DROITE
+Rassemblement pour la République;Parti républicain;Centre des démocrates sociaux;Centre national des indépendants;Radicaux	DROITE
+Rassemblement pour la République;Union des démocrates de progrès	DROITE
+Rassemblement pour la République;Union pour la démocratie française	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Centre national des indépendants	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Parti radical-socialiste;Mouvement des démocrates socialistes;Centre national des indépendants;Démocratie chrétienne	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Parti radical-socialiste;Mouvement démocrate socialiste;Clubs Perspectives et réalités;Mouvement des enseignants libéraux;Parti libéral	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Parti radical;Mouvement des jeunes giscardiens;Centre national des indépendants;Parti libéral;Démocratie chrétienne	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre des démocrates sociaux;Parti républicain;Union des démocrates de progrès;Centre national des indépendants	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans;Comité central bonapartiste	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans;Démocratie chrétienne	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans;Démocratie chrétienne;Radical-socialiste	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants et paysans;non inscrits	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants;Centre des démocrates sociaux;Parti républicain;Parti radical;Mouvement pour le socialisme par la participation;Union gaulliste pour la démocratie;Union des libéraux indépendants	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants;Centre des démocrates sociaux;Parti républicain;Parti radical;Union travailliste;Collège pour une société de participation;Union des jeunes pour le progrès;Centre féminin d'études et d'information	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Centre national des indépendants;Parti républicain;Parti radical;Centre des démocrates sociaux;Parti social démocrate	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Parti radical	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Parti radical-socialiste	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Parti radical;Centre des démocrates sociaux;Parti républicain;Moselle debout	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Parti républicain;Centre des démocrates sociaux;Clubs Perspectives et réalités;Parti radical-socialiste	DROITE
+Rassemblement pour la République;Union pour la démocratie française;Union des démocrates de progrès;Centre national des indépendants	DROITE
+Rassemblement pour la République;Union pour la démocratie française;divers modérés	DROITE
+Rassemblement pour la République;Union pour la démocratie française;indépendants	DROITE
+Rassemblement pour la République;Union pour la démocratie française;indépendants;non inscrit;Des villages dans la ville	DROITE
+Rassemblement pour la République;Union pour la démocratie française;modérés	DROITE
+Rassemblement pour la République;divers droite	DROITE
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale	DROITE
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union des indépendants	DROITE
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union des indépendants;Parti démocrate;Parti réformiste;Union libérale de progrès;Union centriste républicaine indépendante	DROITE
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union pour la démocratie française	DROITE
+Union des démocrates de progrès;Union des jeunes pour le progrès	DROITE
+Union des indépendants	DROITE
+Union des indépendants;Mouvement pour une nouvelle humanité	DROITE
+Union des indépendants;Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale	DROITE
+Union des indépendants;Union départementale d'opposition 93	DROITE
+Union des jeunes pour le progrès	DROITE
+Union du peuple alsacien	DROITE
+Union gaulliste pour la démocratie	DROITE
+Union gaulliste pour la démocratie;Centre national des indépendants et paysans;Rassemblement pour la République;Union pour la démocratie française	DROITE
+Union pour la démocratie française;Centre des démocrates sociaux;Rassemblement pour la République;indépendants	DROITE
+Union pour la démocratie française;Centre national des indépendants	DROITE
+Union pour la démocratie française;Centre national des indépendants et paysans	DROITE
+Union pour la démocratie française;Centre national des indépendants;Rassemblement pour la République	DROITE
+Union pour la démocratie française;Centre national des indépendants;non inscrits;Rassemblement pour la République	DROITE
+Union pour la démocratie française;Fédération pour une nouvelle société calédonienne	DROITE
+Union pour la démocratie française;Parti républicain;Centre des démocrates sociaux;Parti radical;Démocrates socialistes;Rassemblement pour la République	DROITE
+Union pour la démocratie française;Parti républicain;Centre national des indépendants et paysans;Comité central bonapartiste	DROITE
+Union pour la démocratie française;Rassemblement pour la République	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre des démocrates sociaux	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre des démocrates sociaux;Parti radical-socialiste;Mouvement démocrate socialiste de France;Parti républicain	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre des démocrates sociaux;Parti républicain	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre des démocrates sociaux;Parti républicain;Parti radical;Parti social démocrate	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans;Centre des démocrates sociaux	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans;Centre des démocrates sociaux;Mouvement solidarité participation;Parti républicain;Parti radical	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans;Centre des démocrates sociaux;Parti républicain;Parti radical-socialiste;Union gaulliste pour la démocratie;Collège pour une société de participation;Union des jeunes pour le progrès;Mouvement femme avenir Centre féminin d'études et d'informations;Cercle liberté et humanisme	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans;Centre des démocrates sociaux;Parti républicain;Parti social-démocrate;Parti radical	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans;Parti radical	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants et paysans;Parti républicain;Centre des démocrates sociaux;Parti radical-socialiste	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants;Union du centre;divers droite	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Centre national des indépendants;non inscrits	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Mouvement France régions	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti radical	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti radical;Centre national des indépendants et paysans;Centre des démocrates sociaux;Parti républicain	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti radical;Parti républicain;Centre des démocrates sociaux	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti républicain	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti républicain;Centre des démocrates sociaux;Parti radical;Mouvement des démocrates socialistes	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti républicain;Parti radical;Centre des démocrates sociaux	DROITE
+Union pour la démocratie française;Rassemblement pour la République;Parti républicain;Parti radical;Centre des démocrates sociaux;Centre national des indépendants et paysans	DROITE
+Union pour la démocratie française;Rassemblement pour la République;centristes	DROITE
+Union pour la démocratie française;Rassemblement pour la République;non inscrits	DROITE
+Union pour la démocratie française;Union des démocrates de progrès;Rassemblement pour la République;Mouvement solidarité participation;Union des jeunes pour le progrès;Femme avenir	DROITE
+Union pour la démocratie française;Union des indépendants	DROITE
+Union pour une politique nouvelle	DROITE
+aucun parti politique;Rassemblement pour la République;Union des démocrates de progrès;Centre national des indépendants;Amicale gaulliste des Flandres;Femme avenir;Groupe opposition nouvelle génération	DROITE
+centriste gaulliste	DROITE
+chiraquien	DROITE
+chiraquien indépendant	DROITE
+divers droite	DROITE
+divers droite;Racines du futur	DROITE
+droite	DROITE
+droite autonome	DROITE
+droite démocratique	DROITE
+droite indépendante	DROITE
+droite libérale	DROITE
+droite libérale démocratique	DROITE
+droite libérale et républicaine	DROITE
+droite libérale tendance giscardienne	DROITE
+droite modérée	DROITE
+droite;sans étiquette	DROITE
+gaulliste	DROITE
+gaulliste de rassemblement et d'union pour la 5e République	DROITE
+gaulliste indépendant	DROITE
+gaulliste;indépendant	DROITE
+gaulliste;libre	DROITE
+gaulliste;non inscrit	DROITE
+indépendant	DROITE
+indépendant divers droite gaulliste	DROITE
+indépendant gaulliste	DROITE
+indépendant;Centre national des indépendants	DROITE
+indépendant;Centre national des indépendants;Démocratie chrétienne française	DROITE
+indépendant;Chasse pêche nature traditions;Collectif aquitano-occitan pour le non à Maastricht	DROITE
+indépendant;divers droite	DROITE
+indépendant;gaulliste;non inscrit	DROITE
+indépendant;libéral	DROITE
+indépendante	DROITE
+indépendants	DROITE
+indépendants;Centre chrétien populaire	DROITE
+libre divers droite	DROITE
+libre;divers droite	DROITE
+libres;indépendants;Association Albertine-Sarrazin;Association de défense des victimes des procédures civiles pénales et administratives	DROITE
+libéral;indépendant	DROITE
+non inscrit;divers droite	DROITE
+sans étiquette;gaulliste	DROITE
+
+### EXTREME_DROITE — Extrême droite (21 étiquettes)
+Alsace d'abord	EXTREME_DROITE
+Association nationale Pétain-Verdun;Mouvement populiste français;Front national	EXTREME_DROITE
+Front national	EXTREME_DROITE
+Front national;Association de défense de la famille en Yvelines	EXTREME_DROITE
+Front national;Cercle national des combattants;Cercle national des agriculteurs	EXTREME_DROITE
+Front national;Cercle national des femmes d'Europe;Fraternité française;Association pour le développement de la démocratie directe;Comité pour l'Europe des Patries	EXTREME_DROITE
+Jeunesse nationaliste révolutionnaire	EXTREME_DROITE
+Mouvement pour la France	EXTREME_DROITE
+Mouvement travail patrie	EXTREME_DROITE
+Nouvelle solidarité	EXTREME_DROITE
+Parti des forces nouvelles	EXTREME_DROITE
+Parti national démocrate	EXTREME_DROITE
+Parti ouvrier européen	EXTREME_DROITE
+Sos contre la corruption;Front français;Contre révolution en France	EXTREME_DROITE
+Trop d'immigrés la France aux Français	EXTREME_DROITE
+Trop d'immigrés la France aux Français;Contre le vote des immigrés	EXTREME_DROITE
+Trop d'immigrés la France aux français	EXTREME_DROITE
+Union du peuple de France	EXTREME_DROITE
+Union royaliste tourangelle	EXTREME_DROITE
+Véritable rassemblement de la population	EXTREME_DROITE
+royaliste;Action française	EXTREME_DROITE
+
+### ECOLOGISTE — Écologiste (66 étiquettes)
+Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Alliance pour l'écologie et la démocratie;Région verte;SOS environnement;Association des usagers de l'administration et des services publics;Fédération des usagers des transports d'Ile-de-France;Comité d'action du Val-de-Marne contre le bruit	ECOLOGISTE
+Alliance pour l'écologie et la démocratie;SOS environnement	ECOLOGISTE
+Alternative rouge et verte;Génération écologie	ECOLOGISTE
+Alternative rouge et verte;Solidarité écologie gauche alternative	ECOLOGISTE
+Amis de la Terre	ECOLOGISTE
+Amis de la Vallée de la Seine	ECOLOGISTE
+Amis saumurois de l'écologie	ECOLOGISTE
+Anjou écologie autogestion;Mouvement écologique	ECOLOGISTE
+Association des usagers de l'administration et des services publics;SOS environnement;Comité national d'action contre le bruit;Fédération des usagers des transports	ECOLOGISTE
+Association des usagers de l'administration et des services publics;Union civique;SOS environnement;Région verte	ECOLOGISTE
+Biosphère pour demain	ECOLOGISTE
+Comité antinucléaire de Golfech	ECOLOGISTE
+Demain l'écologie	ECOLOGISTE
+Ecologie 92;Confédération syndicale du cadre de vie;Alternative;Initiatives 92;Ecologie citoyenneté et laïcité;Comité de soutien à la coopérative écologique;Dialogues-Cultures et identités;France cultures Islam et laïcité;Mouvement communautaire juif laïc;Ecologie et solidarités multiculturelles;Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Ecologie 92;Confédération syndicale du cadre de vie;Alternative;Initiatives 92;Ecologie citoyenneté et laïcité;Rencontres écologie et solidarités;Comité de soutien à la coopérative écologique;Dialogues-Cultures et identités;France cultures Islam et laïcité;Mouvement communautaire juif laïc;Ecologie et solidarités multiculturelles;Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Ecologie citoyenneté et laïcité;Ecologie 92;VRAIS écologistes;Cultures et laïcité;Association pour la culture bretonne;Cercle communautaire laïc juif;France Islam laïcité;AVEC;Montagne sans frontière;Alternative;Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Ecologie et survie mouvement d'écologie politique alsacien	ECOLOGISTE
+Ecologie les Verts	ECOLOGISTE
+Ecologie les Verts;Génération écologie	ECOLOGISTE
+Ecologie les Verts;Génération écologie;Autogestion écologie 85	ECOLOGISTE
+En Calvados l'écologie n'est pas à vendre	ECOLOGISTE
+Ensemble aujourd'hui;France plus	ECOLOGISTE
+Entente pour la démocratie et l'écologie en Normandie;Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Europe environnement	ECOLOGISTE
+France Planète 21	ECOLOGISTE
+France plus	ECOLOGISTE
+Génération verte	ECOLOGISTE
+Génération écologie	ECOLOGISTE
+Génération écologie;Ecologie les Verts	ECOLOGISTE
+Génération écologie;Ecologie les Verts;PROMESSE;confédération A29;Pourquoi pas Le Havre	ECOLOGISTE
+Génération écologie;Verts	ECOLOGISTE
+Génération écologie;Verts;Solidarités écologie	ECOLOGISTE
+Jura écologie	ECOLOGISTE
+Meudon écologie;Amis de la Terre;Nature et progrès;Confédération syndicale du cadre de vie;Alternative	ECOLOGISTE
+Mouvement autonome solidarité sauvegarde espoir	ECOLOGISTE
+Mouvement d'écologie politique	ECOLOGISTE
+Mouvement écologiste	ECOLOGISTE
+Nord-Ecologie;Vallée de la Lys-Nature;Nord-Nature	ECOLOGISTE
+Nouveaux écologistes du rassemblement nature et animaux	ECOLOGISTE
+Nouveaux écologistes du rassemblement nature et animaux;Union nationale écologiste;Parti pour la défense des animaux;Mouvement universaliste	ECOLOGISTE
+Parti de la loi naturelle	ECOLOGISTE
+Parti vert	ECOLOGISTE
+Responsabilités partagées;Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Région verte	ECOLOGISTE
+Région verte;Association des usagers de l'administration et des services publics;Union civique;SOS environnement	ECOLOGISTE
+Région verte;EDEN;SOS environnement;Union des écologistes;Association des usagers de l'administration et des services publics;Parti de l'arbre;Terre prochaine	ECOLOGISTE
+Région verte;Val-de-Marne écologie	ECOLOGISTE
+Skyrock Quercy Rouergue	ECOLOGISTE
+Union des écologistes	ECOLOGISTE
+Urbains gogologistes	ECOLOGISTE
+Verts	ECOLOGISTE
+Verts alternatifs	ECOLOGISTE
+Verts associatifs	ECOLOGISTE
+Verts autonomes	ECOLOGISTE
+Verts indépendants	ECOLOGISTE
+Verts;Alliance pour l'écologie et la démocratie	ECOLOGISTE
+Verts;Génération écologie	ECOLOGISTE
+Vosges écologie	ECOLOGISTE
+indépendant;Génération écologie	ECOLOGISTE
+indépendant;écologiste	ECOLOGISTE
+radicaux-écologistes	ECOLOGISTE
+vert et rouge	ECOLOGISTE
+vert indépendant	ECOLOGISTE
+écologiste	ECOLOGISTE
+écologiste indépendant	ECOLOGISTE
+écologistes	ECOLOGISTE
+écologistes indépendants des partis	ECOLOGISTE
+Verts;Génération écologie;Alternative rouge et verte;Union démocratique bretonne	ECOLOGISTE
+Verts;Génération écologie;Alternative rouge et verte;Association des élus écologistes de l'Isère;Ecologie alternatives autogestion	ECOLOGISTE
+Verts;Génération écologie;Gauche socialiste;Alternative rouge et verte;Alternative démocratie socialisme;Ligue communiste révolutionnaire;Refondations;Unir et agir pour Gagny	ECOLOGISTE
+Virage 93;Solidarité écologie gauche alternative;Alternative rouge et verte;Alternative démocratie socialisme	ECOLOGISTE
+Génération écologie;Mouvement des réformateurs	ECOLOGISTE
+Syndicat national de défense du droit des agriculteurs;Collectif du monde rural pour le non à Maastricht;Coordination rurale;Union des indépendants;écologiste indépendant	DIVERS
+Génération écologie; Verts; Parti occitan	ECOLOGISTE
+Parti occitan	ECOLOGISTE
+Unitat d’Oc	ECOLOGISTE
+
+
+### DIVERS — Divers / Sans étiquette / coalitions
+Centre des démocrates sociaux;Radicaux-socialistes;Parti républicain;Rassemblement pour la République	DIVERS
+Centre national des indépendants et paysans;Parti républicain;Centre des démocrates sociaux;Parti radical-socialiste;Clubs Perspectives et réalités;Mouvement démocrate socialiste de France;Union pour la démocratie française;Parti démocrate chrétien;Cercle écologique des Hauts-de-Gironde	DIVERS
+Comité défense droits constitutionnels	DIVERS
+Comité pour l'union du Loir-et-Cher;hors des partis politiques	DIVERS
+Démocrate de progrès;Agir;Parti socialiste;Mouvement des radicaux de gauche;Mouvement des réformateurs;Mouvement des démocrates;Club gardois des libéraux-sociaux;Solidarité environnement	DIVERS
+France 16	DIVERS
+Front national;Génération verte;Rassemblement des républicains et des démocrates de progrès	DIVERS
+Groupement Thémis	DIVERS
+Mouvement des radicaux de gauche;Parti socialiste;Parti communiste français;Parti socialiste unifié;gaullistes de la majorité présidentielle	DIVERS
+Mouvement des radicaux de gauche;Parti socialiste;Républicains de progrès	DIVERS
+Mouvement rénovateur nouvelle génération;Association O comme Oxygène	DIVERS
+Parti communiste français;Nouveaux écologistes du rassemblement nature et animaux;Mouvement des radicaux de gauche;Rassemblement des gaullistes de progrès;Mouvement des réformateurs;Initiative démocratique de gauche	DIVERS
+Parti d'en rire	DIVERS
+Parti de la politique inter-culturelle	DIVERS
+Parti des chômeurs et des mécontents	DIVERS
+Parti du ras le bol	DIVERS
+Parti libre	DIVERS
+Parti socialiste;Club Tocqueville	DIVERS
+Parti socialiste;Mouvement des radicaux de gauche;Mouvement des réformateurs	DIVERS
+Parti socialiste;Mouvement des radicaux de gauche;Parti communiste français;Mouvement des réformateurs	DIVERS
+Parti socialiste;Mouvement des radicaux de gauche;Républicains et démocrates de progrès	DIVERS
+Parti socialiste;Parti communiste français;Mouvement des radicaux de gauche;Mouvement des réformateurs	DIVERS
+Ras le bol	DIVERS
+Rassemblement pour la République;Union pour la démocratie française;Mouvement pour le socialisme par la participation;Radicaux-socialistes;Centre national des indépendants	DIVERS
+Union de la jeunesse et des créateurs	DIVERS
+apolitique	DIVERS
+apolitiques	DIVERS
+apolitiques;indépendantes	DIVERS
+aucun parti politique	DIVERS
+aucune formation politique	DIVERS
+hors des partis	DIVERS
+hors des partis politiques	DIVERS
+hors des partis politiques;société civile	DIVERS
+indépendant;aucun parti	DIVERS
+indépendant;hors des partis politiques	DIVERS
+indépendant;libre	DIVERS
+indépendant;sans étiquette	DIVERS
+libre	DIVERS
+libre;indépendant	DIVERS
+libre;sans étiquette	DIVERS
+libres	DIVERS
+libres;indépendants	DIVERS
+non inscrit	DIVERS
+non inscrit;sans étiquette	DIVERS
+non inscrits	DIVERS
+sans appartenance politique	DIVERS
+sans parti politique	DIVERS
+sans étiquette	DIVERS
+sans étiquette;apolitique	DIVERS
+sans étiquette;hors des partis politiques	DIVERS
+sans étiquette;sans parti politique	DIVERS
+
+### UNKNOWN — Non classé (1 étiquettes)
+non mentionné	UNKNOWN
